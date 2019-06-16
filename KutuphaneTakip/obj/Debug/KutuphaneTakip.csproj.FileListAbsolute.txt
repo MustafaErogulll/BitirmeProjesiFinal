@@ -1,0 +1,52 @@
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\bin\Debug\KutuphaneTakip.exe.config
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\bin\Debug\KutuphaneTakip.exe
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\bin\Debug\KutuphaneTakip.pdb
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.Properties.Resources.resources
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.exe
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.pdb
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.Form1.resources
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.AdminPaneli.resources
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.KullaniciPaneli.resources
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.KitaplariListele.resources
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.KitapEkle.resources
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.OkuyucuEkle.resources
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.OkuyuculariListele.resources
+C:\Users\X\Desktop\KutuphaneTakip\KutuphaneTakip\obj\Debug\KutuphaneTakip.EmanetAl_Ver.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\bin\Debug\KutuphaneTakip.exe.config
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.exe
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.pdb
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\bin\Debug\KutuphaneTakip.exe
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\bin\Debug\KutuphaneTakip.pdb
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.AdminPaneli.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.EmanetAlVer.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.Form1.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.KitapEkle.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.KitaplariListele.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.KullaniciPaneli.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.OkuyucuEkle.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.OkuyuculariListele.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.Properties.Resources.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.EmanetKitaplar.resources
+C:\Users\X\Desktop\KutuphaneTakip - Kopya\KutuphaneTakip\obj\Debug\KutuphaneTakip.KullaniciEkle.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\bin\Debug\KutuphaneTakip.exe.config
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.exe
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.pdb
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\bin\Debug\KutuphaneTakip.exe
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\bin\Debug\KutuphaneTakip.pdb
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.AdminPaneli.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.EmanetAlVer.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.EmanetKitaplar.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.Form1.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.KitapEkle.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.KitaplariListele.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.KullaniciEkle.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.KullaniciPaneli.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.OkuyucuEkle.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.OkuyuculariListele.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.Properties.Resources.resources
+C:\Users\X\Desktop\KutuphaneTakip - Son Hali\KutuphaneTakip\obj\Debug\KutuphaneTakip.csproj.GenerateResource.Cache
